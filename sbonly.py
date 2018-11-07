@@ -102,7 +102,7 @@ def Run_Xp():
     backupData()
     python = sys.executable
     os.execl(python, python, *sys.argv)
-Devert = "My name is "+cont.displayName+"\nMy git your bots"
+Devert = "สวัสดี กูชื่อ\n"+cont.displayName+"\nกูจะมาบอกว่า ไอ่แม็คมึงหล่อจัง ✌"
 def Run_Xx():
     print ("BOT KEMBALI AKTIF")
     backupData()
