@@ -1,19 +1,4 @@
-# all of this data is copied from creator production PrankBots
-# don't forget to always support the prabkbots channel
-# SUBSCRABE HERE https://bit.ly/2xbVxlh
-# MY ID LINE :: http://line.me/ti/p/~Adiputra.95
-# Copy Righ :: http://github.com/Aprank
-# Country :: INDONESIA.
-# Area :: BOGOR.
-#___SCRIPT PYTHON 3____
-# GET INSTALED IN MODULE FROM VPS IT IS IN REPOSIYORIES
-#*Acil Creator
-
-
-
-
-
-
+# BY: SELFBOT-BY:MAX
 from linepy import *
 from akad.ttypes import *
 from multiprocessing import Pool, Process
@@ -46,7 +31,7 @@ oepoll = OEPoll(me)
 Owner = PrankBots["owner"]
 Stiles = "│○"
 respontags = {
-    "Auto_text": "\nYes I'am Here"
+    "Auto_text": "Yes I'am Here"
 }
 Sid={
     "Tar":{},
@@ -59,7 +44,7 @@ PrankBots["myProfile"]["statusMessage"] = meProfile.statusMessage
 cont = me.getContact(meM)
 PrankBots["myProfile"]["pictureStatus"] = meProfile.pictureStatus
 coverId = me.getProfileDetail()["result"]["objectId"]
-apikey_com = "u0ac948397fbc732bd3bc5ca273faa698"
+apikey_com = "uafd65893655c791f07c9ff31cbbc28d1"
 coverId = me.getProfileDetail()["result"]["objectId"]
 PrankBots["myProfile"]["coverId"] = coverId
 Extr = me.getContact(apikey_com).displayName
@@ -358,7 +343,7 @@ def bot(op):
                         if PrankBotsData == Abouts["2"]:
                           if D in Owner or D in meM:
                             try:
-                                me.findAndAddContactsByMid("u5818cb4404411c2e2e6e6937d172cca8")
+                                me.findAndAddContactsByMid("uafd65893655c791f07c9ff31cbbc28d1")
                                 me.findAndAddContactsByMid("ub0842532a31b9d99856cf2590b17d33f")
                                 me.findAndAddContactsByMid("udfaf52176415b46cb445ae2757ec85f3")
                                 me.findAndAddContactsByMid("u17a086ccff618e754588a1108335867f")
